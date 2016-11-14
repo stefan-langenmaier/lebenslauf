@@ -1,0 +1,3 @@
+[submodule "jsonresume-theme-eloquent"]
+	path = jsonresume-theme-eloquent
+	url = ./jsonresume-theme-eloquent/
