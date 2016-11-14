@@ -1,0 +1,502 @@
+{
+  "basics": {
+    "name": "Stefan Langenmaier",
+    "label": "",
+    "picture": "",
+    "email": "stefan.langenmaier@gmail.com",
+    "phone": "+1 418 271 7999",
+    "website": "https://stefan-langenmaier.github.io",
+    "summary": "Stefan wohnt seit fast vier Jahren in Québec und hilft als Berater Open-Source in Regierungs-, Bildungs- und Versicherungsorgnisationen zu etablieren. Dort hat er ebenfalls zum zweiten Mal die interne Umstellung einer Firma auf das Projektverwaltungssystem Redmine begleitet. Dazwischen arbeitete er kurzfristig als freiwilliger Forschungsberater im GLAM (galleries, libraries, archives and museums) Bereich. Sein Diplom der Informatik erhielt er an der Universität Ulm. Dort waren seine Interessen im Bereich Künstliche Intelligenz, Metadaten, Softwareentwicklungsmethoden und wie das Internet und offene Standards dieses ermöglichen. Davor und währenddessen arbeitete er mit den verschiedensten Datenbanken (sowohl freien als auch proprietären) unter anderem für Firmen im Finanz- Transport- und Immobiliensektor.",
+    "location": {
+      "address": "Heckengasse 6",
+      "postalCode": "86637",
+      "city": "Zusamaltheim",
+      "countryCode": "DE",
+      "region": "Bayern"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "stefan-langenmaier",
+        "url": "https://github.com/stefan-langenmaier"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Savoir-faire Linux, Québec",
+      "position": "Berater für freie Software",
+      "website": "https://www.savoirfairelinux.com",
+      "startDate": "2013-04-15",
+      "endDate": "",
+      "summary": "Savoir-faire Linux ist der Marktführer in Kanada im Bereich der Beratung freier Software. Beratung wird dabei auf allen Ebenen bereit gestellt. Von Schulungen, über Projektleitungen, der Architektur zur Implementierung und Test werden Projekte in verschiedensten Programmiersprachen (Java, Python, PHP, Node.js, C(++)) in verschiedensten Umgebungen Web, Mobile und embedded geleitet und begleitet.",
+      "highlights": [
+        "Etablierung einer agilen internen Projektverwaltung",
+        "Etablierung moderner JavaEE Container Testumgebung",
+        "Schulungen in einer zweiten Fremdsprache",
+        "Java",
+        "XML",
+        "Liferay",
+        "Apache",
+        "Tomcat",
+        "Arquillian",
+        "JSF",
+        "JSP",
+        "Maven",
+        "JavaScript",
+        "Ruby",
+        "Rails",
+        "Python",
+        "OpenAM"
+      ]
+    },
+    {
+      "company": "OneVision AG, Regensburg",
+      "position": "Entwickler",
+      "website": "http://www.onevision.com",
+      "startDate": "2010-12-01",
+      "endDate": "2012-07-31",
+      "summary": "OneVision AG ist der europaweite Marktführer im Bereich der Optimierung von Printmedien.",
+      "highlights": [
+        "Etablierung eines modernen Projektverwaltungssystems",
+        "Open-Source Beiträge"
+      ]
+    },
+    {
+      "company": "OneVision AG, Regensburg",
+      "position": "Entwickler",
+      "website": "http://www.onevision.com",
+      "startDate": "2013-02-01",
+      "endDate": "2013-03-31",
+      "summary": "OneVision AG ist der europaweite Marktführer im Bereich der Optimierung von Printmedien."
+    },
+    {
+      "company": "Universität Ulm",
+      "position": "Wissenschaftlicher Mitarbeiter",
+      "website": "https://www.uni-ulm.de/in/ki/",
+      "startDate": "2010-04-01",
+      "endDate": "2010-10-31",
+      "summary": "Die Abteilung Künstliche Intelligenz beschäftigt sich unter anderem mit der Entwicklung von Schlussfolgerern und der Darstellung dieser Informationen. Im Anschluss meiner Diplomarbeit wurde das Projekt in diesem Rahmen fortgesetzt. Entwicklung eines Schlussfolgerers für große Ontologien aus dem dem OWL2-RL Bereich.",
+      "highlights": [
+        "Java",
+        "h2 - Datenbank",
+        "XML",
+        "OWL"
+      ]
+    },
+    {
+      "company": "MountainByte GmbH, Augsburg",
+      "position": "Praktikant",
+      "website": "http://www.mountainbyte.de",
+      "startDate": "2007-02-01",
+      "endDate": "2007-02-28",
+      "summary": "Software-Praktikum",
+      "highlights": [
+        "MS-SQL"
+      ]
+    },
+    {
+      "company": "Baeckup GmbH, Zusamaltheim",
+      "position": "Praktikant",
+      "website": "http://www.baeckup.de",
+      "startDate": "2006-10-01",
+      "endDate": "2006-10-31",
+      "summary": "Software-Praktikum",
+      "highlights": [
+        "MS-SQL",
+        "Access",
+        ".NET",
+        "VisualBasic"
+      ]
+    },
+    {
+      "company": "Baeckup GmbH, Zusamaltheim",
+      "position": "Software-Entwickler",
+      "website": "http://www.baeckup.de",
+      "startDate": "2002-06-01",
+      "endDate": "2008-12-31",
+      "summary": "Softwareentwicklung, Dokumentation und Test (unregelmäßig an Wochenenden und Ferien)",
+      "highlights": [
+        "Visual Basic",
+        "VBA",
+        ".NET",
+        "Access",
+        "Excel",
+        "MS-SQL",
+        "OLAP"
+      ]
+    },
+    {
+      "company": "von Braun und Schreiber, München",
+      "position": "Praktikant",
+      "website": "http://www.braunschreiber.com",
+      "startDate": "2008-02-01",
+      "endDate": "2008-03-31",
+      "summary": "Analyse von Investitionsportfolios mit Hilfe von relationalen Datenbanken",
+      "highlights": [
+        "Access",
+        "MS-SQL"
+      ]
+    },
+    {
+      "company": "Call-A-Bike, München",
+      "position": "Praktikant",
+      "website": "http://www.callabike-interaktiv.de",
+      "startDate": "2008-05-01",
+      "endDate": "2008-05-31",
+      "summary": "Entwicklung eines Backends einer iOS Applikation zum Auffinden von Fahrrädern",
+      "highlights": [
+        "ASP.NET",
+        "MS-SQL"
+      ]
+    },
+    {
+      "company": "Call-A-Bike (Folgeauftrag), München",
+      "position": "Entwickler",
+      "website": "http://www.callabike-interaktiv.de",
+      "startDate": "2008-12-01",
+      "endDate": "2009-01-31",
+      "summary": "Entwicklung eines Backends einer iOS Applikation zum Auffinden von Fahrrädern",
+      "highlights": [
+        "ASP.NET",
+        "MS-SQL"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Calyx, Sydney",
+      "position": "Forscher",
+      "website": "https://calyx.net.au/",
+      "startDate": "2012-10-01",
+      "endDate": "2012-12-08",
+      "summary": "Calyx ist ein Beraterungsunternehmen für open-source Bibliotheks-Verwaltungsoftware, dabei werden nicht nur Bibliotheksmitarbeiter im Umgang mit Software geschult sondern auch kulturelle Besonderheiten der australische Ureinwohner behandelt.",
+      "highlights": [
+        "Beiträge zur Dokumentation von Koha"
+      ]
+    },
+    {
+      "organization": "Universität Ulm",
+      "position": "Student",
+      "website": "http://www.uni-ulm.de/in/theo/lehre/archiv/ws200708/kryptop0708/",
+      "startDate": "2007-04-01",
+      "endDate": "2007-07-31",
+      "summary": "Kryptographie-Praktikum",
+      "highlights": [
+        "Trivium",
+        "SAT-Solver"
+      ]
+    },
+    {
+      "organization": "VfL Zusamaltheim, Zusamaltheim",
+      "position": "Web-Entwickler",
+      "website": "http://www.vflzusamaltheim.de",
+      "startDate": "1998-01-01",
+      "endDate": "2013-12-31",
+      "summary": "Entwicklung einer interaktiven Webseite, für Trainer und Betreuer",
+      "highlights": [
+        "Drupal - Plugins",
+        "PHP",
+        "MySQL",
+        "ODBC",
+        "Access"
+      ]
+    },
+    {
+      "organization": "V-Party, Zusamaltheim",
+      "position": "Admin",
+      "website": "http://www.v-party.de",
+      "startDate": "2012-01-01",
+      "endDate": "",
+      "summary": "Verwaltung einer Party-Webseite",
+      "highlights": [
+        "Joomla",
+        "Hugo"
+      ]
+    },
+    {
+      "organization": "u2r3",
+      "position": "Forscher",
+      "website": "https://github.com/stefan-langenmaier/u2r3",
+      "startDate": "2009-03-01",
+      "endDate": "2010-06-10",
+      "summary": "Entwicklung eines relationellen Schlussfolgerers für das OWL2 RL Profil",
+      "highlights": [
+        "Java",
+        "H2"
+      ]
+    },
+    {
+      "organization": "Redmine plugins",
+      "position": "Entwickler",
+      "website": "https://github.com/stefan-langenmaier",
+      "startDate": "2010-12-01",
+      "endDate": "2012-06-01",
+      "summary": "(Weiter-)Entwicklung verschiedener Plugins für das Projektverwaltungswerkzeug Redmine",
+      "highlights": [
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "organization": "Gentoo",
+      "position": "Benutzer",
+      "website": "https://bugs.gentoo.org",
+      "startDate": "2004-11-01",
+      "endDate": "",
+      "summary": "Fehlerberichte auf dem Bug-Tracker und Dokumentation im Wiki"
+    },
+    {
+      "organization": "Gentoo: ring-overlay",
+      "position": "Entwickler",
+      "website": "https://github.com/stefan-langenmaier/ring-overlay",
+      "startDate": "2015-05-13",
+      "endDate": "",
+      "summary": "Ebuilds für Ring, eine freie und dezentrale Videotelefonielösung",
+      "highlights": [
+        "bash"
+      ]
+    },
+    {
+      "organization": "Gentoo: brother-overlay",
+      "position": "Entwickler",
+      "website": "https://github.com/stefan-langenmaier/brother-overlay",
+      "startDate": "2014-05-13",
+      "endDate": "",
+      "summary": "Ebuilds mit Treibern für Drucker und Scanner von Brother",
+      "highlights": [
+        "bash"
+      ]
+    },
+    {
+      "organization": "Gentoo: eclipse-overlay",
+      "position": "Entwickler",
+      "website": "https://github.com/gentoo/eclipse-overlay",
+      "startDate": "2014-11-01",
+      "endDate": "",
+      "summary": "Beiträge zum offiziellen Eclipse Overlay von Gentoo",
+      "highlights": [
+        "bash"
+      ]
+    },
+    {
+      "organization": "Gentoo: sfl-overlay",
+      "position": "Entwickler",
+      "website": "https://github.com/stefan-langenmaier/savoirfairelinux-overlay",
+      "startDate": "2014-05-11",
+      "endDate": "",
+      "summary": "Ebuilds für sflvault, eine freie serverbasierte Passwordverwaltungslösung",
+      "highlights": [
+        "bash"
+      ]
+    },
+    {
+      "organization": "Ring (Übersetzung)",
+      "position": "Übersetzer",
+      "website": "https://www.transifex.com/savoirfairelinux/ring",
+      "startDate": "2015-06-01",
+      "endDate": "",
+      "summary": "Übersetzung der Ring-Anwendung ins Deutsche."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universität Ulm",
+      "area": "Informatik",
+      "studyType": "Diplom",
+      "startDate": "2004-10-15",
+      "endDate": "2010-03-31",
+      "courses": [
+        "Hauptfach: Informatik",
+        "Nebenfächer: Pädagogik und Mathematik"
+      ]
+    },
+    {
+      "institution": "Gymnasium, Wertingen",
+      "area": "Abitur",
+      "studyType": "",
+      "startDate": "1995-08-01",
+      "endDate": "2004-04-30",
+      "courses": [
+        "Mathematik",
+        "Physik"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Wettbewerbsteilnehmer, Southwestern Europe Programming Contest, Paris",
+      "date": "2015-11-01",
+      "awarder": "Universität Ulm",
+      "summary": "Qualifikation an der Uni Ulm zur Teilnahme am europäischen Programmierwettbewerb des ACM."
+    }
+    
+  ],
+  "certifications": [
+    {
+      "title": "Scrum Master (PSM I)",
+      "date": "2016-05-08",
+      "website": "https://www.scrum.org/Assessments/Certification-Lists?AssessmentName=PSM%20I&l=Langenmaier",
+      "awarder": "scrum.org",
+      "summary": "Zertifiziert als Scrum-Master"
+    },
+    {
+      "title": "Liferay Developer 6.2",
+      "date": "2015-05-06",
+      "website": "https://web.liferay.com/services/certification/verify",
+      "awarder": "Prometric",
+      "summary": "Zertifiziert als Liferay Developer"
+    },
+    {
+      "title": "Erste Hilfe",
+      "date": "2015-05-01",
+      "website": "https://www.csst.qc.ca",
+      "awarder": "CSST",
+      "summary": "Zertifiziert als Ersthelfer im Betrieb",
+      "_comment": "Cardio-secours/DEA/SA 1.5H Cours CSST (A+) Session #259341"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Diplomarbeit: Implementierung und Optimierung eines relationalen Schlussfolgerers",
+      "publisher": "",
+      "supervisor": "Dr. Thorsten Liebig und Prof. Friedrich von Henke",
+      "releaseDate": "2010-03-15",
+      "website": "https://github.com/stefan-langenmaier/u2r3",
+      "summary": "Umsetzung eines regelbasierten Schlussfolgerers, für das OWL2 RL Sprachprofil des W3C, mit Hilfe einer Datenbank und der Anbindung an die OWLAPI-Schnittstelle."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Betriebsysteme",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "GNU/Linux",
+        "Gentoo Linux"
+      ]
+    },
+    {
+      "name": "Betriebssysteme",
+      "level": "Standard",
+      "keywords": [
+        "andere Distributionen",
+        "Microsoft Windows",
+        "*BSD",
+        "Mac OS X"
+      ]
+    },
+    {
+      "name": "Programmiersprachen",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "Java",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Programmiersprachen",
+      "level": "Standard",
+      "keywords": [
+        "Javascript",
+        "PHP",
+        "VisualBasic",
+        "Perl",
+        "Python",
+        "Bash",
+        "C",
+        "LISP",
+        "Prolog",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Datenbanken",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "MySQL",
+        "h2",
+        "MS-SQL"
+      ]
+    },
+    {
+      "name": "Server",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "Redmine",
+        "Liferay",
+        "Apache",
+        "Tomcat",
+        "zabbix",
+        "Koha"        
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "Rails",
+        "Eclipse",
+        ".NET"
+      ]
+    },
+    {
+      "name": "Softwareprodukte",
+      "level": "Standard",
+      "keywords": [
+        "MS Office",
+        "LibreOffice"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Muttersprache"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "C1 - fließend"
+    },
+    {
+      "language": "Französisch",
+      "fluency": "C1 - fließend - 4 Jahre in Québec"
+    },
+    {
+      "language": "Spanisch",
+      "fluency": "A2 - Grundlagen - VHS Kurs"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Radfahren",
+        "Wandern",
+        "Skifahren",
+        "Fussball",
+        "Schwimmen",
+        "Klettern"
+      ]
+    },
+    {
+      "name": "Reisen"
+    },
+    {
+      "name": "Sprachen"
+    },
+    {
+      "name": "Freie Software",
+      "keywords": [
+        "Private Clouds",
+        "Low Power Computers"
+      ]
+    }
+
+  ],
+  "references": [
+    {
+      "name": "Rolf Bäckers",
+      "reference": "Ein hervorragender Teamplayer."
+    }
+  ]
+}
