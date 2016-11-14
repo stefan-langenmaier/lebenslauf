@@ -5,7 +5,7 @@
     "picture": "",
     "email": "stefan.langenmaier@gmail.com",
     "phone": "+1 418 271 7999",
-    "website": "https://stefan-langenmaier.github.io",
+    "website": "https://stefan-langenmaier.github.io/lebenslauf/",
     "summary": "Stefan wohnt seit fast vier Jahren in Québec und hilft als Berater Open-Source in Regierungs-, Bildungs- und Versicherungsorgnisationen zu etablieren. Dort hat er ebenfalls zum zweiten Mal die interne Umstellung einer Firma auf das Projektverwaltungssystem Redmine begleitet. Dazwischen arbeitete er kurzfristig als freiwilliger Forschungsberater im GLAM (galleries, libraries, archives and museums) Bereich. Sein Diplom der Informatik erhielt er an der Universität Ulm. Dort waren seine Interessen im Bereich Künstliche Intelligenz, Metadaten, Softwareentwicklungsmethoden und wie das Internet und offene Standards dieses ermöglichen. Davor und währenddessen arbeitete er mit den verschiedensten Datenbanken (sowohl freien als auch proprietären) unter anderem für Firmen im Finanz- Transport- und Immobiliensektor.",
     "location": {
       "address": "Heckengasse 6",
@@ -18,7 +18,7 @@
       {
         "network": "Github",
         "username": "stefan-langenmaier",
-        "url": "https://github.com/stefan-langenmaier"
+        "url": "https://github.com/stefan-langenmaier/"
       }
     ]
   },
