@@ -1,0 +1,26 @@
+{
+  "volunteer": [
+    {
+      "organization": "Libdrm",
+      "position": "Entwickler",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Bug-reports in libdrm",
+      "highlights": [
+        "C"
+      ]
+    },
+    {
+      "organization": "vagrant-lxc",
+      "position": "Entwickler",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Bug-reports und Patches für vagrant-lxc",
+      "highlights": [
+        "C"
+      ]
+    }
+  ]
+}
