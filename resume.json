@@ -30,7 +30,7 @@
       "website": "https://www.savoirfairelinux.com",
       "startDate": "2013-04-15",
       "endDate": "",
-      "summary": "Savoir-faire Linux ist der Marktführer in Kanada im Bereich der Beratung freier Software. Beratung wird dabei auf allen Ebenen bereit gestellt. Von Schulungen, über Projektleitungen, der Architektur zur Implementierung und Test werden Projekte in verschiedensten Programmiersprachen (Java, Python, PHP, Node.js, C(++)) in verschiedensten Umgebungen Web, Mobile und embedded geleitet und begleitet.",
+      "summary": "Savoir-faire Linux ist der Marktführer in Kanada im Bereich der Beratung freier Software. Beratung wird dabeiganzheitlich angeboten und von Schulungen, über Projektleitungen, der Architektur zur Implementierung und Test werden Projekte in verschiedensten Programmiersprachen (Java, Python, PHP, Node.js, C(++)) in verschiedensten Umgebungen Web, Mobile und embedded geleitet und begleitet.",
       "highlights": [
         "Etablierung einer agilen internen Projektverwaltung",
         "Etablierung moderner JavaEE Container Testumgebung",
@@ -489,7 +489,8 @@
       "name": "Freie Software",
       "keywords": [
         "Private Clouds",
-        "Low Power Computers"
+        "Mini computers",
+        "Containers"
       ]
     }
 
