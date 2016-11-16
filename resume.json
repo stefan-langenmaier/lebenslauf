@@ -399,7 +399,9 @@
       "level": "Fortgeschritten",
       "keywords": [
         "Java",
-        "Ruby"
+        "Bash",
+        "Ruby",
+        "SQL"
       ]
     },
     {
@@ -411,11 +413,11 @@
         "VisualBasic",
         "Perl",
         "Python",
-        "Bash",
         "C",
         "LISP",
         "Prolog",
-        "Rust"
+        "C++",
+        "Fortran"
       ]
     },
     {
@@ -428,30 +430,39 @@
       ]
     },
     {
-      "name": "Server",
-      "level": "Fortgeschritten",
-      "keywords": [
-        "Redmine",
-        "Liferay",
-        "Apache",
-        "Tomcat",
-        "zabbix",
-        "Koha"        
-      ]
-    },
-    {
       "name": "Frameworks",
       "level": "Fortgeschritten",
       "keywords": [
+        "Spring",
+        "JSF",
+        "JUnit",
+        "Arquillian",
         "Rails",
         "Eclipse",
         ".NET"
       ]
     },
     {
-      "name": "Softwareprodukte",
-      "level": "Standard",
+      "name": "weitere Softwareprodukte",
+      "level": "Fortgeschritten",
       "keywords": [
+        "LXC",
+        "Docker",
+        "Redmine",
+        "Jira/Stash",
+        "Liferay",
+        "Apache",
+        "Passenger",
+        "nginx",
+        "Tomcat",
+        "Jmeter",
+        "zabbix",
+        "Koha",
+        "Drupal",
+        "OpenAM",
+        "Git",
+        "Jira/Stash",
+        "Subversion",
         "MS Office",
         "LibreOffice"
       ]
