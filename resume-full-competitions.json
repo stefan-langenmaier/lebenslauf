@@ -1,0 +1,21 @@
+{
+  "awards": [
+    {
+      "title": "Deutscher Meister, Lego",
+      "date": "2000-11-01",
+      "awarder": "Gymnasium Wertingen",
+      "summary": "Mit dem Schulteam Sieben Schwaben bei der Lego-Roboter-Challenge U16 gewonnen."
+    },
+    {
+      "title": "Schülerwettbewerb: Deutsches Museum",
+      "awarder": "Gymnasium Wertingen",
+      "summary": "Mehrmalige Teilnahme am Schülerwettbewerb zum Erstellen einer Webseite zu einzelnen Gebieten."
+    },
+    {
+      "title": "Schülerzeitung Echo",
+      "awarder": "Gymnasium Wertingen",
+      "summary": "Teilnahme an mehreren Wettbewerben. Am Anfang die Umstellung auf digitalen Druck geleitet."
+    }
+    
+  ],
+}
