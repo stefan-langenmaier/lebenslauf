@@ -298,6 +298,14 @@
       "startDate": "2015-06-01",
       "endDate": "",
       "summary": "Übersetzung der Ring-Anwendung ins Deutsche."
+    },
+    {
+      "organization": "MariaDB (Galera)",
+      "position": "Entwickler",
+      "website": "https://github.com/codership/galera",
+      "startDate": "2015-11-28",
+      "endDate": "2016-02-01",
+      "summary": "Code und Konfiguration um Cluster die hinter einem NAT sitzen miteinander zu verbinden."
     }
   ],
   "education": [
