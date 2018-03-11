@@ -6,7 +6,7 @@
     "email": "stefan.langenmaier@gmail.com",
     "phone": "+49 176 222 90 336",
     "website": "https://stefan-langenmaier.github.io/lebenslauf/",
-    "summary": "Stefan hilft als Berater im Bereich Suche und Analyse Unternehmen, damit sie aus ihrem gestiegenem Datenaufkommen Informationen extrahieren zu können. Die Unternehmen stammen dabei zum einen aus dem e-Commerce, welche ihren Kunden ein qualitativ hochwertiges und relevantes Sucherergebnis bieten wollen, sowie Kunden im Bereich der enterprise Search mit verschiedensten Daten Quellen die miteinander verknüpft werden. Diese Beratungsleistungen finden durch Schulungen und Workshops beim Kunden vor Ort statt oder als technische Beratung bei der Konzeption dieser Lösungen. Davor arbeitet er vier Jahre in Quebec, CA als Berater für Open-Source Software, um diese in Regierungs-, Bildungs- und Versicherungsorganisationen zu etablieren. Dort hat er ebenfalls zum zweiten Mal die interne Umstellung einer Firma auf das Projektverwaltungssystem Redmine begleitet. Dazwischen arbeitete er kurzfristig als freiwilliger Forschungsberater im GLAM (galleries, libraries, archives and museums) Bereich. Sein Diplom der Informatik erhielt er an der Universität Ulm. Hier waren seine Interessen im Bereich Künstliche Intelligenz, Metadaten, Softwareentwicklungsmethoden und wie das Internet und offene Standards dieses ermöglichen. Davor und währenddessen arbeitete er mit den verschiedensten Datenbanken (sowohl freien als auch proprietären) unter anderem für Firmen im Finanz- Transport- und Immobiliensektor.",
+    "summary": "Stefan hilft als Berater im Bereich Suche und Analyse Unternehmen, um aus ihrem gestiegenem Datenaufkommen Informationen extrahieren zu können. Die Unternehmen stammen dabei zum einen aus dem e-Commerce, welche ihren Kunden ein qualitativ hochwertiges und relevantes Sucherergebnis bieten wollen, sowie Kunden im Bereich der Enterprise-Search mit verschiedensten Datenquellen, die miteinander verknüpft werden. Diese Beratungsleistungen finden durch Schulungen und Workshops beim Kunden vor Ort statt oder als technische Beratung bei der Konzeption dieser Lösungen. Davor arbeitet er vier Jahre in Quebec, CA als Berater für Open-Source Software, um diese in Regierungs-, Bildungs- und Versicherungsorganisationen zu etablieren. Dort hat er ebenfalls zum zweiten Mal die interne Umstellung einer Firma auf das Projektverwaltungssystem Redmine begleitet. Dazwischen arbeitete er kurzfristig als freiwilliger Forschungsberater im GLAM (galleries, libraries, archives and museums) Bereich. Sein Diplom der Informatik erhielt er an der Universität Ulm. Hier waren seine Interessen im Bereich Künstliche Intelligenz, Metadaten, Softwareentwicklungsmethoden und wie das Internet und offene Standards dieses ermöglichen. Davor und währenddessen arbeitete er mit den verschiedensten Datenbanken (sowohl freien als auch proprietären) unter anderem für Firmen im Finanz- Transport- und Immobiliensektor.",
     "location": {
       "city": "Augsburg",
       "countryCode": "DE",
@@ -25,11 +25,34 @@
   },
   "work": [
     {
+      "company": "SHI GmbH, Augsburg",
+      "position": "Berater, Search & Analytics",
+      "website": "https://www.shi-gmbh.com/",
+      "startDate": "2017-05-29",
+      "endDate": "",
+      "summary": "Die SHI GmbH bietet unter anderem Beratungsdienstleistungen im Bereich Search & Analytics mit einem Schwerpunkt auf den eCommerce an. Dabei werden mit Open-Source-Software aus der Apache Software Foundation, wie zum Beispiel Solr, Spark, NiFi, Hadoop und Zeppelin gearbeitet.",
+      "highlights": [
+        "Workshops-Leitung (Solr)",
+        "Interne Schulungen geführt (Java GC, Docker)",
+        "Machine Learning Technologien",
+        "Solr",
+        "Java",
+        "Ansible",
+        "Java GC",
+        "XML",
+        "Jetty",
+        "Maven",
+        "JavaScript",
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
       "company": "Savoir-faire Linux, Québec",
       "position": "Berater für freie Software",
       "website": "https://www.savoirfairelinux.com",
       "startDate": "2013-04-15",
-      "endDate": "",
+      "endDate": "2017-03-31",
       "summary": "Savoir-faire Linux ist der Marktführer in Kanada im Bereich der Beratung freier Software. Beratung wird dabeiganzheitlich angeboten und von Schulungen, über Projektleitungen, der Architektur zur Implementierung und Test werden Projekte in verschiedensten Programmiersprachen (Java, Python, PHP, Node.js, C(++)) in verschiedensten Umgebungen Web, Mobile und embedded geleitet und begleitet.",
       "highlights": [
         "Etablierung einer agilen internen Projektverwaltung",
@@ -343,6 +366,27 @@
   ],
   "certifications": [
     {
+      "title": "Solr Unleashed",
+      "date": "2017-05-29",
+      "_endDate": "2017-05-30",
+      "awarder": "SHI GmbH",
+      "summary": "Teilnahme an der Schulung"
+    },
+    {
+      "title": "Solr Under the Hood",
+      "date": "2017-05-31",
+      "_endDate": "2017-06-01",
+      "awarder": "SHI GmbH",
+      "summary": "Teilnahme an der Schulung"
+    },
+    {
+      "title": "SolrCloud",
+      "date": "2017-06-13",
+      "_endDate": "2017-06-14",
+      "awarder": "SHI GmbH",
+      "summary": "Teilnahme an der SolrCloud Schulung der SHI GmbH"
+    },
+    {
       "title": "Scrum Master (PSM I)",
       "date": "2016-05-08",
       "website": "https://www.scrum.org/Assessments/Certification-Lists?AssessmentName=PSM%20I&l=Langenmaier",
@@ -424,6 +468,7 @@
       "name": "Datenbanken",
       "level": "Fortgeschritten",
       "keywords": [
+        "Solr",
         "MySQL",
         "h2",
         "MS-SQL"
@@ -449,6 +494,8 @@
         "LXC",
         "Docker",
         "Redmine",
+        "Ansible",
+        "Puppet",
         "Jira/Stash",
         "Liferay",
         "Apache",
@@ -460,8 +507,8 @@
         "Koha",
         "Drupal",
         "OpenAM",
+        "Banana",
         "Git",
-        "Jira/Stash",
         "Subversion",
         "MS Office",
         "LibreOffice"
